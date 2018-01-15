@@ -33,6 +33,6 @@
 
 Моя страница в
 
-![logo](https://pp.userapi.com/c837721/v837721567/5ce2a/oNTd2QBCi5Y.jpg)
+![logo](https://pp.userapi.com/c604516/v604516447/f88/t2JiLxvuoUA.jpg)
 [ВКонтакте](https://vk.com/acidumru)
 

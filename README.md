@@ -50,6 +50,6 @@
      
    Сестру зовут Дарья. Несмотря на то, что ей всего 8 лет, она ходит в музыкальную и художественную школу. Очень любит мастерить разные апликации. 
      
- ![Родители](https://apf.mail.ru/cgi-bin/readmsg/Screenshot_20180115-221441.jpg?id=15160438290000000820%3B0%3B1&x-email=polinka101999%40mail.ru&exif=1)
+ ![Родители](https://www.instagram.com/p/BUpMxKTgAZ-ah_IemifozVT3fkXcipy2V28wTE0/)
     
     

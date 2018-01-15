@@ -33,4 +33,4 @@
 
 Моя страница в
 [logo]: https://pp.userapi.com/c837721/v837721567/5ce2a/oNTd2QBCi5Y.jpg
-[ВКонтакте]: https://vk.com/acidumru
+[ВКонтакте]: https://vk.com/acidumru/ "щелкните, чтобы посетить"

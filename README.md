@@ -29,3 +29,5 @@ _____
 color_1 Надеюсь, что в будущем этот список пополнится.
 
 <strong> хелппп
+
+[imgl]: https://www.google.ru/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjl7r6QwNrYAhUwS5oKHVXwBrcQjRwIBw&url=https%3A%2F%2Fvk.com%2Ftodespreobrazhenka&psig=AOvVaw20aZ1_H6a752FrUTrlijU2&ust=1516123941292045

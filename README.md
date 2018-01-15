@@ -35,8 +35,4 @@
 
 ![Гераполис](https://pp.userapi.com/c841025/v841025672/f1a1/SrYOU1ScwNA.jpg)
 
-Моя страница в
-
-![logo](https://pp.userapi.com/c604516/v604516447/f88/t2JiLxvuoUA.jpg)
-[ВКонтакте](https://vk.com/acidumru)
 

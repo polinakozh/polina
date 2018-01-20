@@ -74,5 +74,5 @@
 !!! danger "Пример danger"
     здесь указан класс danger
 
-!!! notice "Пример notice"
+! notice "Пример notice"
     здесь указан класс notice
